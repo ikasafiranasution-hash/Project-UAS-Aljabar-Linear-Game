@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Paws Valley",
+  "description": "Game Bubble Shooter manis bertema pedesaan dengan kucing menggemaskan. Belajar penerapan Aljabar Linear secara interaktif, real-time vektor pantulan, serta soundtrack santai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
